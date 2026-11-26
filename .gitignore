@@ -1,7 +1,0 @@
-target/
-out/
-*.class
-*.enc
-.DS_Store
-.idea/
-.vscode/
